@@ -1,6 +1,6 @@
 export default function SocialLinks() {
   return (
-    <div className="mx-auto mt-16 flex gap-x-16 flex-row justify-center items-center">
+    <div className="mx-auto mt-24 flex gap-x-12 md:gap-x-16 flex-row justify-center items-center">
       <a
         className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110"
         href="https://www.instagram.com/devjeffrey25/"
@@ -8,8 +8,7 @@ export default function SocialLinks() {
         rel="noopener noreferrer"
       >
         <img
-          width={50}
-          height={50}
+        className="w-16"
           src="/src/assets/instagram.png"
           alt="Instagram"
         />
@@ -21,8 +20,7 @@ export default function SocialLinks() {
         rel="noopener noreferrer"
       >
         <img
-          width={50}
-          height={50}
+        className="w-16"
           src="/src/assets/youtube.png"
           alt="YouTube"
         />
@@ -34,8 +32,7 @@ export default function SocialLinks() {
         rel="noopener noreferrer"
       >
         <img
-          width={50}
-          height={50}
+        className="w-16"
           src="/src/assets/spotify.png"
           alt="Spotify"
         />
