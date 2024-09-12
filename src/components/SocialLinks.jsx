@@ -9,7 +9,7 @@ export default function SocialLinks() {
       >
         <img
         className="w-16"
-          src="/src/assets/instagram.png"
+          src="/instagram.png"
           alt="Instagram"
         />
       </a>
@@ -21,7 +21,7 @@ export default function SocialLinks() {
       >
         <img
         className="w-16"
-          src="/src/assets/youtube.png"
+          src="/youtube.png"
           alt="YouTube"
         />
       </a>
@@ -33,7 +33,7 @@ export default function SocialLinks() {
       >
         <img
         className="w-16"
-          src="/src/assets/spotify.png"
+          src="/spotify.png"
           alt="Spotify"
         />
       </a>
