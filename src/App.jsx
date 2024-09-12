@@ -6,10 +6,12 @@ import SocialLinks from "./components/SocialLinks";
 function App() {
   return (
     <>
-      <div className="bg-[#F8FBFF] min-h-screen">
+      <div className="bg-[#F8FBFF] min-h-screen flex flex-col justify-between">
         <Header />
+        <div className="flex-grow">
         <ButtonsLinks/>
         <SocialLinks/>
+        </div>
         <Footer/>
       </div>
     </>
