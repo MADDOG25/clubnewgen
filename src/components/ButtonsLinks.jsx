@@ -25,6 +25,14 @@ export default function ButtonsLinks() {
       >
         Desarrollo web para tu Negocio
       </a>
+      <a
+        className="rounded-3xl px-6 py-3 lg:leading-8 text-2xl lg:text-3xl  bg-[#3B3B3B] hover:bg-indigo-300 text-[#F8FBFF] hover:text-[#3B3B3B] transition-all duration-200 ease-in-out shadow-lg drop-shadow-lg"
+        href="https://discord.gg/bDC8ZzexxK"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Unirse al Club
+      </a>
     </div>
   );
 }
