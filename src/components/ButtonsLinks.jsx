@@ -7,7 +7,7 @@ export default function ButtonsLinks() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        Accede a la Newsletter
+        Suscribete a la Newsletter
       </a>
       <a
         className="rounded-3xl px-6 py-3 lg:leading-8 text-xl lg:text-3xl  bg-[#3B3B3B] hover:bg-purple-300 text-[#F8FBFF] hover:text-[#3B3B3B] transition-all duration-200 ease-in-out shadow-lg drop-shadow-lg"
@@ -19,7 +19,7 @@ export default function ButtonsLinks() {
       </a>
       <a
         className="rounded-3xl px-6 py-3 lg:leading-8 text-2xl lg:text-3xl  bg-[#3B3B3B] hover:bg-sky-300 text-[#F8FBFF] hover:text-[#3B3B3B] transition-all duration-200 ease-in-out shadow-lg drop-shadow-lg"
-        href="https://devjeffrey.vercel.app/"
+        href="https://newgendev.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
       >
