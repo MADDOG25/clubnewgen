@@ -10,7 +10,7 @@ export default function FooterLanding() {
           >
             <img
               src="/planet-icon.png"
-              className="h-10"
+              className="w-10 h-10"
               alt="Club NewGen Logo"
               title="Club NewGen"
             />
