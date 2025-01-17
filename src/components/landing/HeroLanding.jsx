@@ -1,4 +1,4 @@
-export default function Hero() {
+export default function HeroLanding() {
   return (
     <div className="mx-auto max-w-7xl py-16 px-6 sm:px-10">
       <h2 className="text-center text-4xl sm:text-5xl font-bold mb-10">
@@ -47,7 +47,7 @@ export default function Hero() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         {/* Columna de texto */}
         <div className="order-2 text-start text-lg sm:text-2xl">
-          <p className="mt-10 text-3xl font-semibold mb-6">2017</p>
+          <p className="mt-10 text-3xl font-semibold mb-6">2025</p>
           <ul className="list-disc pl-5 space-y-4 font-medium text-gray-600">
             <li>Respetado por Todos</li>
             <li>No fallo a mi Palabra</li>

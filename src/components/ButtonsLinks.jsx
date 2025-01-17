@@ -11,7 +11,7 @@ export default function ButtonsLinks() {
       </a>
       <a
         className="rounded-3xl px-6 py-3 lg:leading-8 text-xl lg:text-3xl  bg-[#3B3B3B] hover:bg-red-300 text-[#F8FBFF] hover:text-[#3B3B3B] transition-all duration-200 ease-in-out shadow-lg drop-shadow-lg"
-        href="/contacto"
+        href="/https://www.instagram.com/devjeffrey25/"
         target="_blank"
         rel="noopener noreferrer"
       >

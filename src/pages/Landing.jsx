@@ -1,15 +1,15 @@
-import Footer from "../components/landing/Footer";
 import HeaderLanding from "../components/landing/HeaderLanding";
-import Hero from "../components/landing/Hero";
+import HeroLanding from "../components/landing/HeroLanding";
 import Newletter from "../components/landing/Newletter";
+import FooterLanding from "../components/landing/FooterLanding";
 
 export default function Landing() {
   return (
     <div>
       <HeaderLanding />
-      <Hero />
+      <HeroLanding />
       <Newletter />
-      <Footer />
+      <FooterLanding />
     </div>
   );
 }
