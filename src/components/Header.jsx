@@ -8,7 +8,7 @@ export default function Header() {
         alt="logo club newgen"
       />
       <h1 className="text-center text-5xl md:text-6xl lg:text-7xl">
-        Bienvenido al Club NewGen
+        Club NewGen
       </h1>
     </div>
   );

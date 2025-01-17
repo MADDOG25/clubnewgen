@@ -1,6 +1,6 @@
 export default function SocialLinks() {
   return (
-    <div className="mx-auto mt-24 flex gap-x-12 md:gap-x-16 flex-row justify-center items-center">
+    <div className="mx-auto px-6 mt-24 flex gap-x-12 md:gap-x-16 flex-row justify-center items-center">
       <a
         className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110"
         href="https://www.instagram.com/devjeffrey25/"
