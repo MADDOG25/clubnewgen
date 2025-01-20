@@ -4,7 +4,7 @@ export default function WhatsappLink() {
       <a
         href="https://chat.whatsapp.com/Lno8Y7HJO8WJCDWx93AyCc"
         target="_blank"
-        className="inline-flex items-center justify-center p-5 text-base font-medium text-white rounded-lg bg-purple-800 hover:bg-green-600"
+        className="inline-flex items-center justify-center p-5 text-base font-medium text-white rounded-lg bg-purple-700 hover:bg-green-600"
       >
         <img src="/planet-icon.png" className="h-8 pr-2" />
         <span className="w-full text-base lg:text-2xl">
